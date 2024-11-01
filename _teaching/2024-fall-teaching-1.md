@@ -4,7 +4,7 @@ collection: Lecturer
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-1
 venue: "Budapest University of Technology and Economics"
-date: "2024.09-2025.01"
+time: "2024.09-2025.01"
 location: "Budapest, Hungary"
 ---
 
