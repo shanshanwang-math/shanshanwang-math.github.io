@@ -9,9 +9,10 @@ redirect_from:
 
 I'm a second year PhD student from Budapest University of Technology and Economics. My research interest include convex geometry, combinatorical geometry and combinatorics.
 
+[Email](shanshan.wang@edu.bme.hu)
+
 js begin
 /*
-[Email](shanshan.wang@edu.bme.hu)
 
 A data-driven personal website
 ======
