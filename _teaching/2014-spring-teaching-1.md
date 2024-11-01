@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Calculus II for Informaticians"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
