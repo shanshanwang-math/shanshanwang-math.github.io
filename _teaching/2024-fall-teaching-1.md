@@ -1,7 +1,7 @@
 ---
 title: "Calculus II (Linear Algebra part)"
 collection: Lecturer
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-1
 venue: "Budapest University of Technology and Economics"
 date: "2024.09-2025.01"
