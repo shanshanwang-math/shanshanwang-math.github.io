@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Budapest University of Technology and Economics, 2027 (expected)
+* Ph.D in Mathematics, University of Szeged, 2027 (expected)
 
 
 Publications
