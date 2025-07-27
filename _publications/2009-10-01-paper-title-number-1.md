@@ -2,11 +2,6 @@
 title: "The Honeycomb Conjecture in normed planes and an alpha-convex variant of a theorem of Dowker"
 collection: publications
 category: manuscripts
-permalink: https://arxiv.org/abs/2406.10622
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2406.10622'
 citation: 'Zsolt Lángi, Shanshan Wang. (2024). Submitted.'
 ---
