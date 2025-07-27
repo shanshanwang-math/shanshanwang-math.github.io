@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD student from Budapest University of Technology and Economics. My research interest include convex geometry, combinatorical geometry and combinatorics.
+I'm a PhD student from University. My research interest include convex geometry, combinatorical geometry and combinatorics.
 
 [Email](mailto:shanshan.wang@edu.bme.hu)
 
