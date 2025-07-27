@@ -16,7 +16,7 @@ Education
 
 Publications
 ======
-Zsolt Lángi, Shanshan Wang,  
+* Zsolt Lángi, Shanshan Wang,  
 **The Honeycomb Conjecture in normed planes and an alpha-convex variant of a theorem of Dowker**,  
 *submitted*.  
 [	arXiv:2406.10622 [math.MG]](https://arxiv.org/abs/2406.10622)
