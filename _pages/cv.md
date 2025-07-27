@@ -14,12 +14,7 @@ Education
 * Ph.D in Mathematics, University of Szeged, 2027 (expected)
 
 
-Most important Publications
-======
-* Zsolt Lángi, Shanshan Wang, *Variants of a theorem of Macbeath in finite dimensional normed spaces*, submitted, [	arXiv:2507.11496 [math.MG]](https://arxiv.org/abs/2507.11496)
 
-* Zsolt Lángi, Shanshan Wang, *The Honeycomb Conjecture in normed planes and an alpha-convex variant of a theorem of Dowker*, submitted, [arXiv:2406.10622 [math.MG]](https://arxiv.org/abs/2406.10622)
-  
 
   
 
