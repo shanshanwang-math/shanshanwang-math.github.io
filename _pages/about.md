@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student from University of Szeged. My research interest include convex geometry, combinatorical geometry and combinatorics.In particular the geometry of normed spaces, isoperimetric problems, equilbrium points, etc.
+I'm a PhD student. My supervisor is Dr. Zsolt Lángi. I spend two years at Budapest University of Technology and Economics. From September, I will continue my study at University of Szeged.
 
-[Email](mailto:shanshan.wang@edu.bme.hu)
+My research interest include discrete, convex and combinatorical geometry. In particular the geometry of normed spaces, geometric isoperimetric problems, equilbrium points of convex bodies, etc.
+
+[Email](mailto:shanshan_wang87@outlook.com)
 
 
