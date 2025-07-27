@@ -35,6 +35,6 @@ Presentations
   
 Teaching
 ======
-*  **Calculus 2 for Comp. Sci. students**, 2023/24/2.
-*  **Calculus 2 for Mech. Eng. students**, 2024/25/1.
-*  **Calculus 2 for Mech. Eng. students**, 2024/25/2.
+*  **Calculus 2 for Comp. Sci. students**, Budapest University of Technology and Economics, 2023/24/2.
+*  **Calculus 2 for Mech. Eng. students**, Budapest University of Technology and Economics, 2024/25/1.
+*  **Calculus 2 for Mech. Eng. students**, Budapest University of Technology and Economics, 2024/25/2.
