@@ -1,9 +1,8 @@
----
-title: "The Honeycomb Conjecture in normed planes and an alpha-convex variant of a theorem of Dowker"
-collection: publications
-category: manuscripts
-paperurl: 'https://arxiv.org/abs/2406.10622'
-citation: 'Zsolt Lángi, Shanshan Wang. (2024). Submitted.'
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<p>
+  M. Fradelizi, Z. Lángi and A. Zvavitch, <br>
+  <strong>Volume of the Minkowski sums of star-shaped sets</strong>, <br>
+  <em>Proc. Amer. Math. Soc. Ser. B</em> <strong>9</strong> (2022), 358–372. <br>
+  DOI: <a href="https://doi.org/10.1090/bproc/97">10.1090/bproc/97</a>, <br>
+  arXiv: <a href="https://arxiv.org/abs/1910.06146">1910.06146</a>
+  [math.MG], [math.FA]
+</p>
