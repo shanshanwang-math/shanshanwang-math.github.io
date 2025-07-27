@@ -33,10 +33,4 @@ Presentations
 * Presentaion at The 7th Conference of PhD Students in Mathematics, *Honeycomb Conjecture in Normed Planes and an alpha-Convex Variant of Dowker's Theorem*, Szeged, Hungary, Jul 3, 2024
 
   
-Teaching
-======
-**At the Budapest University of Technology and Economics**
 
-*  **Calculus 2 for Comp. Sci. students**, 2023/24/2.
-*  **Calculus 2 for Mech. Eng. students**, 2024/25/1.
-*  **Calculus 2 for Mech. Eng. students**, 2024/25/2.
