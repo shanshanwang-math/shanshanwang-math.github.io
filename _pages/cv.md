@@ -22,7 +22,7 @@ Recent Publications
   
 Presentations
 ======
-* Poster presentation at 2025 Szeged Workshop on Convexity, **Normed variants of a theorem of Macbeath**, Szeged, Hungary, May 29, 2025
+* Poster presentation at 2025 Szeged Workshop on Convexity, **'Normed variants of a theorem of Macbeath'**, Szeged, Hungary, May 29, 2025
 
 * Poster presentation at Szeged Geometry Day, **The Honeycomb conjecture in normed planes**, Szeged, Hungary, Nov 22, 2024
 
