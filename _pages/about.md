@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student from University of Szeged. My research interest include convex geometry, combinatorical geometry and combinatorics.
+I'm a PhD student from University of Szeged. My research interest include convex geometry, combinatorical geometry and combinatorics.In particular the geometry of normed spaces, isoperimetric problems, equilbrium points, etc.
 
 [Email](mailto:shanshan.wang@edu.bme.hu)
 
