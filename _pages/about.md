@@ -12,5 +12,6 @@ I'm a PhD student. My supervisor is Dr. Zsolt Lángi. The first two years I stud
 My research interest include discrete, convex and combinatorial geometry. In particular the geometry of normed spaces, geometric isoperimetric problems, equilibrium points of convex bodies, etc.
 
 [Email](mailto:shanshan_wang87@outlook.com)
+[ORCiD](https://orcid.org/0009-0008-3205-5416))
 
 
