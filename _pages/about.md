@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student at the University of Szeged. My supervisor is Dr. Zsolt Lángi. The first two years I studied at Budapest University of Technology and Economics. I'm also a teaching assistant at the John von Neumann University.
+I'm a third year PhD student at the University of Szeged. My supervisor is Dr. Zsolt Lángi. The first two years I studied at the Budapest University of Technology and Economics. I'm also a teaching assistant at the John von Neumann University.
 
 My research interest include discrete, convex and combinatorial geometry. In particular the geometry of normed spaces, geometric isoperimetric problems, equilibrium points of convex bodies, etc.
 
